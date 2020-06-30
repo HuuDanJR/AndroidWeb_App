@@ -18,8 +18,9 @@ An Android WebView App
   <img src = "https://user-images.githubusercontent.com/40542971/86071988-c4f7c400-baaa-11ea-845a-77355f096801.png" width = "250"/>
   <img src = "https://user-images.githubusercontent.com/40542971/86072002-cde89580-baaa-11ea-8d1d-5d2f38bf9773.png" width = "250"/></p>
   
-  <b>Drawer Navigation</b><br>
+  
   </p>
+  <b>Drawer Navigation</b><br>
   <p align = "center">
   
  <img src = "https://user-images.githubusercontent.com/40542971/86071978-c1643d00-baaa-11ea-9dbd-fcca04759012.png" width = "350"/>
