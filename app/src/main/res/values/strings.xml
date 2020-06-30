@@ -1,0 +1,72 @@
+<resources>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">OK App</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Trang chủ</string>
+    <string name="menu_gallery">Giới thiệu</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Chia sẻ</string>
+    <string name="menu_send">Chia sẻ messenger</string>
+    <string name="menu_send2">Cập nhật</string>
+
+    <string name="app_name">OK App</string>
+    <string name="button">Vay tiêu dùng, mua sắm, tất cả chỉ một chạm</string>
+    <string name="vaytieudung"><u>VAY TIÊU DÙNG </u>.</string>
+    <string name="magiamgia"><u>MÃ GIẢM GIÁ( COUPON )</u>.</string>
+    <string name="magiamgia_l1">- LAZADA. SHOPEE. TIKI. SENDO. ADAYROI …</string>
+    <string name="magiamgia_l2">- JUNO. FPT. PHONG VŨ …</string>
+    <string name="baohiem"><u>BẢO HIỂM</u>.</string>
+    <string name="baohiem_l1">- BẢO HIỂM NHÂN THỌ. Y TẾ. OTÔ. XE MÁY …</string>
+    <string name="baohiem_l2">- BẢO HIỂM GIA ĐÌNH. CÁ NHÂN. TÀI SẢN</string>
+
+    <string name="mothetindung"><u>MỞ THẺ TÍN DỤNG</u>.</string>
+    <string name="mothetindung_l1">- NGÂN HÀNG VPBANK. SACOMBANK. CITIBANK ….</string>
+    <string name="mothetindung_l2">- VAY TRẢ GÓP BẰNG THẺ TÍN DỤNG</string>
+
+    <string name="sanvemaybay"><u>SĂN VÉ MÁY BAY GIÁ RẺ</u>.</string>
+    <string name="sanvemaybay_l1">- VÉ MÁY BAY TOÀN QUỐC. QUỐC TẾ GIÁ RẺ</string>
+    <string name="sanvemaybay_l2">- VIETJET. JESTAR. BAMBOO. VN AIRLINES …</string>
+
+    <string name="timvexekhach"><u>TÌM VÉ XE KHÁCH GIÁ RẺ</u>.</string>
+    <string name="timvexekhach_l1">- VÉ XE KHÁCH TOÀN QUỐC</string>
+    <string name="timvexekhach_l2">- VÉ XE BẮC NAM</string>
+
+    <string name="timphong"><u>TÌM PHÒNG KHÁCH SẠN GIÁ RẺ</u>.</string>
+    <string name="timphong_l1"><u>- KHÁCH SẠN. HOMESTAYS</u>.</string>
+    <string name="timphong_l2"><u>- BOOKING. AGODA. TRAVELOKA …</u>.</string>
+
+
+    <string name="timtuadulich"><u>TÌM TUA DU LỊCH GIÁ RẺ</u>.</string>
+    <string name="timtuadulich_l1">- DU LỊCH TRONG NƯỚC. DU LỊCH QUỐC TẾ.</string>
+    <string name="timtuadulich_l2">- VIETRAVEL. FIDITOUL. …</string>
+
+    <string name="timvetau"><u>TÌM VÉ TÀU GIÁ RẺ</u>.</string>
+    <string name="timvetau_l1">- VÉ TÀU MIỀN BẮC</string>
+    <string name="timvetau_l2">- VÉ TÀU MIỀN NAM</string>
+
+    <string name="timvieclam"><u>TÌM VIỆC LÀM TOÀN QUỐC</u>.</string>
+    <string name="timvieclam_l1">- MIỀN BẮC. MIỀN TRUNG. MIỀN NAM.</string>
+    <string name="timvieclam_l2">- VIỆC LÀM CỐ ĐỊNH. THỜI VỤ</string>
+
+    <string name="thuexe"><u>THUÊ XE</u>.</string>
+    <string name="thuexe_l1">- THUÊ Ô TÔ. XE MÁY. XE DU LỊCH …</string>
+
+    <string name="kiemtienonline"><u>KIẾM TIỀN ONLINE</u>.</string>
+    <string name="dichvukhac"><u>DỊCH VỤ KHÁC</u>.</string>
+
+    <string name="vaytieudung_l2"><u>-VAY THẾ CHẤP :</u>( CHẤP NHẬN NỢ XẤU ) : F88. VIETSTAR …</string>
+    <string name="vaytieudung_l1"><u>-VAY TÍN CHẤP :</u>NGÂN HÀNG SHB. VPBANK. ĐIỆN LỰC EVN …</string>
+
+
+    <string name="t1">Ok app là một ứng dụng hoạt động trên nền tảng mobile. người sáng lập NGUYỄN THÀNH CHUNG. </string>
+    <string name="t2">ứng dụng liệt kê cung cấp các sản phẩm dịch vụ của các thương hiệu nổi tiếng như Lazada.shopee. tiki. juno.phong vũ.fpt.  Và đặc biệt là các voucher. Coupon. Mã khuyễn mãi.
+    giúp người dung có cái nhìn tổng quan nhiều sự lựa chọn để mua đươc sản phảm dịch vụ phù hợp với giá cả tốt nhất
+</string>
+    <string name="t3">sảm phẩm ok app giới thiệu bao gồm cho vay tín chấp. mua sắm . Thiết bị điện tử. dịch vụ đăt vé máy bay.đặt phòng.tua du lịch …và liên tục cập nhật.</string>
+</resources>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:weightSum="17"
+    android:orientation="vertical"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:layout_height="match_parent"
+    tools:context=".WebViewActivity">
+    <LinearLayout
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="85dp"
+        android:layout_marginBottom="5dp"
+        android:src="@drawable/border">
+        <ImageView
+            android:background="@drawable/icon_logo"
+            android:layout_width="65dp"
+            android:layout_height="50dp"
+            android:padding="2dp"/>
+        <LinearLayout
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:background="@color/colorTitle"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="Vay tiêu dùng mua sắm, tất cả chỉ 1 chạm "
+                android:textColor="@color/white"
+                android:textSize="14dp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:background="@drawable/border"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="17">
+        <LinearLayout
+            android:padding="10dp"
+            android:orientation="vertical"
+            android:id="@+id/myWebview"
+            android:layout_width="match_parent"
+            android:layout_weight="16"
+            android:layout_height="wrap_content">
+            <TextView
+                android:textSize="16dp"
+                android:layout_marginBottom="20dp"
+                android:text="@string/t1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="16dp"
+                android:layout_marginBottom="20dp"
+                android:text="@string/t2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="16dp"
+                android:layout_marginBottom="20dp"
+                android:text="@string/t3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/relativelayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:background="@drawable/border2"
+        android:paddingBottom="5dp">
+
+        <Button
+            android:id="@+id/btn_trangchu"
+            android:layout_width="120dp"
+            android:layout_height="40dp"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/mybutton"
+            android:onClick="Trangchu"
+            android:layout_gravity="center"
+            android:text="Trang chủ"
+            android:textColor="@color/colorText"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+
+</LinearLayout>

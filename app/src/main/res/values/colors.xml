@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorText">#FFFFF0</color>
+    <color name="colorTitle">#3494BA</color>
+    <color name="colorTitle2">#58B6C0</color>
+    <color name="text">#303f9f</color>
+
+
+    <color name="backgroundcolor">#fcfcfc</color>
+    <color name="lightgray">#ededed</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="yello">#ffb300</color>
+    <color name="white">#ffffff</color>
+    <color name="green">#00bfa5</color>
+    <color name="darkblue">#23283a</color>
+    <color name="testcolorblue">#152b38</color>
+
+
+    <color name="black_overlay">#66000000</color>
+    <color name="pink">#fe104d</color>
+    <color name="greenlight">#76FF03</color>
+    <color name="greyxx">#BCAAA4</color>
+    <color name="redd">#EF9A9A</color>
+    <color name="texttitle">#4a4a4a</color>
+    <color name="greenA200">#B2FF59</color>
+    <color name="cam">#FFCC80</color>
+    <color name="bluelight">#03A9F4</color>
+    <color name="title">#CB4335</color>
+    <color name="title2">#EC7063  </color>
+    <color name="title3">#E74C3C</color>
+    <color name="colorcode">#17202A  </color>
+    <color name="colorcodetext">#FFFFFF</color>
+
+    <color name="orange">#F39C12</color>
+    <color name="orange2">#DD2C00</color>
+    <color name="orange3">#21618C  </color>
+    <color name="orange4">#8E24AA  </color>
+    <color name="orange5">#827717  </color>
+    <color name="orange6">#1DE9B6  </color>
+    <color name="orange7">#F50057  </color>
+</resources>
