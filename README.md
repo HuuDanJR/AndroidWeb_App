@@ -10,17 +10,17 @@ An Android WebView App
   <img src = "https://user-images.githubusercontent.com/40542971/86071963-ba3d2f00-baaa-11ea-848d-d738f8a9e742.png" width = "300"/>
   <img src = "https://user-images.githubusercontent.com/40542971/86071972-be694c80-baaa-11ea-9471-ac68cff0625d.png" width = "300"/>
   <br>
-  <b>Some detail page</b>
+  <p align= "center">
+<b>Some detail page</b>
   <img src = "https://user-images.githubusercontent.com/40542971/86071997-cc1ed200-baaa-11ea-9a87-6f7e7bca8ccd.png" width = "300"/>
   <img src = "https://user-images.githubusercontent.com/40542971/86071988-c4f7c400-baaa-11ea-845a-77355f096801.png" width = "300"/>
-  <img src = "https://user-images.githubusercontent.com/40542971/86072002-cde89580-baaa-11ea-8d1d-5d2f38bf9773.png" width = "300"/>
+  <img src = "https://user-images.githubusercontent.com/40542971/86072002-cde89580-baaa-11ea-8d1d-5d2f38bf9773.png" width = "300"/></p>
   <br>
-  
-<b>Drawer Navigation</b>
-
-  <img src = "https://user-images.githubusercontent.com/40542971/86071978-c1643d00-baaa-11ea-9dbd-fcca04759012.png" width = "350"/>
-  <img src = "https://user-images.githubusercontent.com/40542971/86071986-c32e0080-baaa-11ea-8de3-7ccd47328071.png" width = "350"/>
   </p>
+  <p align = "center">
+  <b>Drawer Navigation</b>
+ <img src = "https://user-images.githubusercontent.com/40542971/86071978-c1643d00-baaa-11ea-9dbd-fcca04759012.png" width = "350"/>
+  <img src = "https://user-images.githubusercontent.com/40542971/86071986-c32e0080-baaa-11ea-8de3-7ccd47328071.png" width = "350"/></p>
 </p>
   <br>
   <br>
