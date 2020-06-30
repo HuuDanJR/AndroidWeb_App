@@ -9,6 +9,7 @@ An Android WebView App
   <img src = "https://user-images.githubusercontent.com/40542971/86071956-b7dad500-baaa-11ea-9d9c-ef156e8f8a81.png" width = "300"/>
   <img src = "https://user-images.githubusercontent.com/40542971/86071963-ba3d2f00-baaa-11ea-848d-d738f8a9e742.png" width = "300"/>
   <img src = "https://user-images.githubusercontent.com/40542971/86071972-be694c80-baaa-11ea-9471-ac68cff0625d.png" width = "300"/>
+  <br>
   <b>Some detail page</b>
   <br>
   <p align= "center">
